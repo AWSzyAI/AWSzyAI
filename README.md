@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 
 以及如果对翠翠感兴趣的话，[这里](https://awszyai.github.io/Resume/Szy-CV.html) 有一个关于我自己的更详细介绍w
 -->
+<a href="#">
+<img align="right" src='https://github-readme-stats.vercel.app/api?username=AWSzyAI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]'>
+</a>
+
 - 🌱 I’m currently learning Artificial Intelligence.
 - 🔭 I’m currently working on recognition science.
 - 👯 I’m looking to collaborate on AI for Brain Science.
 - 📫 How to reach me: szy@nnu.edu.cn
-
-  
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=AWSzyAI&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["contribs"]'>
-</a>
 
 ## Pm.钷
 
