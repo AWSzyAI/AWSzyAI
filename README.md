@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 > 🍭 Less is More 
 
-这里是 [Pm.钷](http://www.pm61.fun)~ 可以叫我子延~
-
-[www.pm61.fun](http://www.pm61.fun) 是我的个人博客，有我关于技术、产品、生活的思考，欢迎来瞧一瞧~
+这里是 [Pm.钷](https://awszyai.github.io)~ 可以叫我子延~
 
 这是[我的网页版正式简历](https://awszyai.github.io/Resume/Szy-CV.html)，不过你可以从[时子延.io](https://awszyai.github.io/)来轻松地了解我。
 
