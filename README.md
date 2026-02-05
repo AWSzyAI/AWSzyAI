@@ -4,7 +4,7 @@ I build things that think with you.
 
 AI → cognition → brain interface
 
-PhD (Neurobiology) @ Westlake × SIAT  
+PhD (Neurobiology) @ Westlake × SMART  
 not chasing papers, chasing systems
 
 ---
@@ -13,7 +13,6 @@ not chasing papers, chasing systems
 - multimodal RAG & hallucination problems
 - OpenBCI / neural signals
 - small products & experiments
-- trying to understand how humans actually use AI
 
 ---
 
