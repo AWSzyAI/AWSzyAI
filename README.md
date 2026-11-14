@@ -36,4 +36,4 @@ memory → decision → collaboration → consciousness
 I'm happy to co-author, co-build, or just jump on a call. Open an issue on any repo, or write to me.
 
 📫 **shiziyan@westlake.edu.cn** (research) · **szy@bluxlabs.com** (Blux / building)
-🌐 [awszyai.github.io](https://awszyai.github.io/) · ✈️ [t.me/AWSzyAI](https://t.me/AWSzyAI)
+🌐 [awszyai.github.io](https://awszyai.github.io/)
